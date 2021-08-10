@@ -1,1 +1,1 @@
-# Linear-Regression_Analysis-on_Bike_Sharing_price-prediction
+# Linear-Regression_Analysis-on_Bike_Sharing_revenue-prediction
